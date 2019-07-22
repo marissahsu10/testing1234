@@ -1,0 +1,1672 @@
+
+@font-face {
+                          font-family: "Gibson-Medium";
+                          src: url('../fonts/.43311.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Gibson-SemiBold";
+                          src: url('../fonts/.24355.otf') format("opentype");
+                        }
+                        @font-face {
+                          font-family: "Gibson-Book";
+                          src: url('../fonts/.43309.otf') format("opentype");
+                        }
+                        
+.index {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 2398px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.index .qabh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1835px;
+  height              : 329px;
+  width               : 469px;
+  position            : absolute;
+  margin              : 0;
+  left                : 763px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease;
+}
+.index .qabh:hover {
+  transform           : scale(1.1);
+}
+.index .qabh .qabhback {
+  background-color    : rgba(215, 75, 121, 1.0);
+  top                 : 1px;
+  height              : 328px;
+  width               : 469px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .qabh .qabhimg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 328px;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 249px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .qabh .queenannebeerhall {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Medium", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.index .qabh .graphicdesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 45px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.97px;
+  line-height         : 22.0px;
+}
+.index .metu {
+  background-color    : rgba(255, 153, 75, 1.0);
+  top                 : 1501px;
+  height              : 663px;
+  width               : 470px;
+  position            : absolute;
+  margin              : 0;
+  left                : 208px;
+  border-radius       : 2px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease;
+}
+.index .metu:hover {
+  transform           : scale(1.1);
+}
+.index .metu .metuback {
+  background-color    : rgba(255, 153, 75, 1.0);
+  top                 : 0px;
+  height              : 663px;
+  width               : 470px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .metu .metuimg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 123px;
+  height              : 603px;
+  width               : 695px;
+  position            : absolute;
+  margin              : 0;
+  left                : -113px;
+  -ms-transform       : rotate(-3deg); /* IE 9 */
+  -webkit-transform   : rotate(-3deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-3deg);
+}
+.index .metu .budapestmetropolita {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 72px;
+  height              : auto;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Medium", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.index .metu .graphicdesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : auto;
+  width               : 227px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.97px;
+  line-height         : 22.0px;
+}
+.index .waveapp {
+  background-color    : rgba(151, 136, 215, 1.0);
+  top                 : 1161px;
+  height              : 605px;
+  width               : 469px;
+  position            : absolute;
+  margin              : 0;
+  left                : 763px;
+  border-radius       : 2px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease;
+}
+.index .waveapp:hover {
+  transform           : scale(1.1);
+}
+.index .waveapp .waveback {
+  background-color    : rgba(151, 136, 215, 1.0);
+  top                 : 0px;
+  height              : 605px;
+  width               : 469px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .waveapp .waveimg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 484px;
+  width               : 635px;
+  position            : absolute;
+  margin              : 0;
+  left                : -138px;
+  -ms-transform       : rotate(-42deg); /* IE 9 */
+  -webkit-transform   : rotate(-42deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-42deg);
+}
+.index .waveapp .waveapp1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Medium", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 37.0px;
+}
+.index .waveapp .uiuxdesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.97px;
+  line-height         : 22.0px;
+}
+.index .visable {
+  background-color    : rgba(100, 175, 255, 1.0);
+  top                 : 796px;
+  height              : 295px;
+  width               : 470px;
+  position            : absolute;
+  margin              : 0;
+  left                : 763px;
+  border-radius       : 2px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease;
+}
+.index .visable:hover {
+  transform           : scale(1.1);
+}
+.index .visable .visableback {
+  background-color    : rgba(100, 175, 255, 1.0);
+  top                 : 0px;
+  height              : 295px;
+  width               : 470px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+}
+.index .visable .a15macbookpro {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 212px;
+  width               : 373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 202px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .visable .visablelabs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 72px;
+  height              : auto;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Medium", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.index .visable .uiuxdesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : auto;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.97px;
+  line-height         : 22.0px;
+}
+.index .gebraucht {
+  background-color    : rgba(54, 190, 155, 1.0);
+  top                 : 796px;
+  height              : 635px;
+  width               : 470px;
+  position            : absolute;
+  margin              : 0;
+  left                : 208px;
+  border-radius       : 2px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease;
+}
+.index .gebraucht:hover {
+  transform           : scale(1.1);
+}
+.index .gebraucht .gebrauchtback {
+  background-color    : rgba(54, 190, 155, 1.0);
+  top                 : 0px;
+  height              : 635px;
+  width               : 470px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .gebraucht .gebrauchtimg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 157px;
+  height              : 464px;
+  width               : 412px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .gebraucht .gebrauchtde {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Medium", Helvetica, Arial, serif;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 43.0px;
+}
+.index .gebraucht .uiuxdesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : auto;
+  width               : 227px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-SemiBold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.97px;
+  line-height         : 22.0px;
+}
+.index .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -95px;
+  height              : 753px;
+  width               : 1048px;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .workbttn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 611px;
+  height              : 31px;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease;
+}
+.index .header .workbttn:hover {
+  transform           : scale(1.05);
+}
+.index .header .workbttn .rectangle {
+  background-color    : rgba(116, 183, 255, 1.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 137px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .workbttn .viewmywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 16.0px;
+}
+.index .header .marissahsu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 349px;
+  height              : auto;
+  width               : 458px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-SemiBold", Helvetica, Arial, serif;
+  font-size           : 90.0px;
+  color               : rgba(74, 74, 74, 1.0);
+  text-align          : left;
+  line-height         : 90.0px;
+}
+.index .header .nicetoemeetyou {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 545px;
+  height              : auto;
+  width               : 426px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Book", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 36.0px;
+}
+.index .header .uiuxdesigner {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 307px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-SemiBold", Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.index .header .illustration {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 752px;
+  width               : 571px;
+  position            : absolute;
+  margin              : 0;
+  left                : 477px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 651px;
+  height              : 101px;
+  width               : 571px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group3 .group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 101px;
+  width               : 571px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 513px;
+  height              : 137px;
+  width               : 68px;
+  position            : absolute;
+  margin              : 0;
+  left                : 435px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 502px;
+  height              : 155px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 402px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 639px;
+  height              : 61px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 410px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 280px;
+  height              : 34px;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 354px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 207px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 417px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group14 .group141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 207px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : 32px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 257px;
+  height              : 32px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : 21px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 407px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 265px;
+  height              : 38px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 339px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 182px;
+  height              : 28px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 396px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .stroke25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 207px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill27 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 435px;
+  height              : 45px;
+  width               : 503px;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 435px;
+  height              : 32px;
+  width               : 497px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 386px;
+  height              : 70px;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 392px;
+  height              : 61px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .fill35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 446px;
+  height              : 10px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 226px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group40 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 391px;
+  height              : 62px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group40 .group401 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 62px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 285px;
+  height              : 418px;
+  width               : 395px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill42 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 197px;
+  height              : 63px;
+  width               : 118px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill43 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 311px;
+  height              : 13px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 220px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill45 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 52px;
+  width               : 94px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill47 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 160px;
+  height              : 13px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill49 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : 78px;
+  width               : 90px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill51 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 93px;
+  height              : 47px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill53 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 38px;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill55 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : 124px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill57 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : 52px;
+  width               : 94px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill59 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 198px;
+  height              : 74px;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill61 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 222px;
+  height              : 130px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill63 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 317px;
+  height              : 37px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 220px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill65 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 352px;
+  height              : 10px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill67 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 354px;
+  height              : 47px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 167px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill71 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 143px;
+  height              : 16px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill73 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : 14px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill75 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 60px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill77 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill79 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill81 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill83 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 115px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill87 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 2px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill93 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 8px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill95 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 24px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill97 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill99 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : 14px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill109 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill113 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : 13px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 195px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill117 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 143px;
+  height              : 16px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill119 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : 14px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill121 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 60px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill123 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : 1px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill125 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill135 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 111px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill137 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 112px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill139 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 24px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill143 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 143px;
+  height              : 16px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill145 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 60px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill147 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill149 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : 1px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill151 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 56px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill159 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 57px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 111px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill161 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 112px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill163 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 59px;
+  height              : 1px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill165 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 24px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill167 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 261px;
+  height              : 40px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill169 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 280px;
+  height              : 137px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill171 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 147px;
+  height              : 132px;
+  width               : 149px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill173 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 159px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill175 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 135px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill177 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 121px;
+  height              : 91px;
+  width               : 102px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill179 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 156px;
+  height              : 67px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 366px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill181 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 154px;
+  height              : 4px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .stroke183 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 6px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 300px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .stroke185 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 147px;
+  height              : 5px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 319px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .header .illustration .group189 .fill187 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 121px;
+  height              : 27px;
+  width               : 94px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
+.index .nav {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 19px;
+  width               : 342px;
+  position            : absolute;
+  margin              : 0;
+  left                : 208px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.index .nav .contact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 286px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.index .nav .aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.index .nav .mh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-SemiBold", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(174, 174, 199, 1.0);
+  text-align          : left;
+  letter-spacing      : 1.78px;
+  line-height         : 18.0px;
+}
+.index .nav .work {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Gibson-Medium", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(74, 73, 74, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
